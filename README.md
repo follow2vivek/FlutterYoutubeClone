@@ -6,9 +6,7 @@
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
 
-![alt text](https://github.com/follow2vivek/FlutterYoutubeClone/blob/master/screenshot/youtube_1.png "Flutter youtube clone screenshot")
+## Screenshots
+<img src="./screenshot/youtube_1.png" height="300em"/>
 
-***
-
-![alt text](https://github.com/follow2vivek/FlutterYoutubeClone/blob/master/screenshot/youtube_2.png "Flutter youtube clone screenshot")
-
+<img src="./screenshot/youtube_2.png" height="300em"/>
